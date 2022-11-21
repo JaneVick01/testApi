@@ -1,0 +1,16 @@
+{
+    "store001" : {
+       "name" : "Albert Heijn",
+       "password" : "password1",
+       "profession" : "teacher",
+       "id": 1
+    },
+    
+    "store002" : {
+       "name" : "Lidl",
+       "password" : "password2",
+       "profession" : "librarian",
+       "id": 2
+    }
+
+ }
